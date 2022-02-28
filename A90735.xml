@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain dealing with England in matter of conscience, between the King and Parliament. I. Concerning the Kings most excellent Majesty. II. Concerning the Parliament. III. Concerning the grand Reformers. IV. Concerning the Parliaments army. V. Concerning those called Malignants. VI. Concerning the Cavaliers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90735</idno>
+            <idno type="STC">Wing P2355</idno>
+            <idno type="STC">Thomason E91_6</idno>
+            <idno type="STC">ESTC R13872</idno>
+            <idno type="EEBO-CITATION">99859568</idno>
+            <idno type="PROQUEST">99859568</idno>
+            <idno type="VID">111658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain dealing with England in matter of conscience, between the King and Parliament. I. Concerning the Kings most excellent Majesty. II. Concerning the Parliament. III. Concerning the grand Reformers. IV. Concerning the Parliaments army. V. Concerning those called Malignants. VI. Concerning the Cavaliers.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack chiefly upon the Cavaliers, detailing their supposed cruelties.</note>
+                  <note>Annotation on Thomason copy: "Feb: 28 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111658:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>Plain Dealing WITH ENGLAND IN Matter of Conſcience, BETWEEN The KING and PARLIAMENT.</p>
+            <list>
+               <item>
+                  <hi>I. Concerning the Kings most excellent Majeſty.</hi>
+               </item>
+               <item>
+                  <hi>II. Concerning the Parliament.</hi>
+               </item>
+               <item>
+                  <hi>III. Concerning the grand Reformers.</hi>
+               </item>
+               <item>
+                  <hi>IV. Concerning the Parliaments Army.</hi>
+               </item>
+               <item>
+                  <hi>V. Concerning thoſe called Malignants.</hi>
+               </item>
+               <item>
+                  <hi>VI. Concerning the Cavaliers.</hi>
+               </item>
+            </list>
+            <q>
+               <bibl>
+                  <hi>Chryſoſt. Hom.</hi> 8. <hi>ad Pop. Antioch.</hi>
+               </bibl>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rah pater Abrahae fuit Idolorum cultor, ſed in hoc mundo DOMINUS <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>impietatis poenas non dedit, &amp; meritò: nam ſi DEUS praeveniens <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>radicem praeſcidiſſet, unde tantus fidei fructus exortus fuiſſet?</p>
+            </q>
+            <p>LONDON, Printed for Tho. Griffin. 1643</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111658:2"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:111658:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>Plain Dealing with <hi>England,</hi> in matter of Conſcience.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S the actions of the <hi>Engliſh</hi> demonſtrate the in<g ref="char:EOLhyphen"/>clination of their hearts, ſo were their hearts veiled only with a Chirſtall, each mans intention would be better known; And the repreſen<g ref="char:EOLhyphen"/>tative body of the State, who are carefull to Cure the preſent malady would purge the di<g ref="char:EOLhyphen"/>ſtempered humours to ſave the much gangred body by cutting of ſom rotten and ſome putrified members which infect, infeſt and in vade the republique.</p>
+            <p>Their profound ſighs and earneſt prayers might quicken my ingenie, better then the ſound of excellent inſtruments can revive the ſpirits: to deal plainly with England in matter of conſcience concerning the preſent wars this kingdom groans under, ſubmitting my ſelf modeſtly to both the head, and body thereof: And if thoſe ſtreams of tears, and ſweet preſumes make not my pen fruitfull, and pleaſent, pardon my ru<g ref="char:EOLhyphen"/>deneſſe, and conſider the ſtate we are now in.</p>
+            <div n="1" type="part">
+               <head>I. <hi>Concerning the Kings Majeſtie.</hi>
+               </head>
+               <p n="1">I FOr his Regall power, he is (by ſpecall Prerogative) the Lords annointed, the head and ſole governour of the Kingdome, eſta<g ref="char:EOLhyphen"/>bliſhed by the law of God, and we his ſubjects the body, (next under God:) are bound in obedience to him alone. 2. For his parts and virtues, they are rare, ſurpaſſing other Princes, of farre that their imitation of his Majeſties ſplendor would not only veil their imperfections, but preſerve their lives: make his judgment O God as cleare as the ſun to reduce the generall capacity to an influence of juſtice, peace, Religion, and liberity; and make him a rich and potent king.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Concerning the Parliament.</hi>
+               </head>
+               <p n="2">II THe Parliament is as one body, and the chief, or head of this body is the King, and with this agreed all our books. <hi>Dyer, Fol.</hi> 60. <hi>a.</hi> 2. ſaith the ſtate of Parliament conſiſts of three parts, <hi>viz.</hi> of the King, as the chief head, and of the Lords, the chief and principall members of the body, and of the Commons, Knights
+<pb facs="tcp:111658:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 21 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:111658:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 21 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:111658:4"/>
+                  <!-- PDF PAGE 22 -->Citizens and Burgeſſes, the inferior Member, and theſe make the body of the Parliament. So that it muſt needs follow, that the King is the Head of this great Body, not divided in law, though he be in diſtance, for if ſo, it muſt needs be, that the body would be deſtroyed, be cauſe it cannot ſubſiſt without an Head: Neither do they uſurpe any power to themſelves more then by the law is due, to ſtile themſelves the Parliament, whoſe ordinances are pub<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hed in the Kings name, and under his protecton.</p>
+               <p>The Parliament is the repreſentative Body of the kingdom, and their judgement is our judgment, and they that oppoſe the judgment of the Parliament, oppoſe their own judgment, for we have bound our <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lves by our contents and election, to ſtand to their Judgement, and determination, ſo that although the miſerable condition and imminent danger, be not manifeſt to the univerſal Body yet the Parliament being the moſt proper Judges, ſeeing the wrinkles put on the brow of rui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed affaires, ought to be the only Judges of it. And indeed the law which is above a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>law <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>S. Ius Populi;</hi> the ſafety of the people, to their law all ought to ſubſcribe, and therefore the Parliament have done that which is agreeable both to law, and reaſon in preferring of the pub<g ref="char:EOLhyphen"/>lique ſafety.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>concerning the grand reformers</hi>
+               </head>
+               <p n="3">III THoſe who labour hard: and take great paines to procure a Reformation have their warrant out of Gods word, (for whatſoever is diſſonant from that, however it may beare a pretence of reformation will rather deform then beautify the Church of God;) but a Reformation according to Gods word ought to be laboured for; and much deſired of all the people of God; And as all rivers return to the ocean, ſo may the labyrnith of this be by help of wiſe <hi>Ariadnes</hi> eſcaped, and the golden Fleece, continuance of the Goſpell in purity, juſtice, peace and downy tranquillity, procured and preſerved, with the help of thoſe godly <hi>Medeas,</hi> who would make the Church of <hi>England</hi> (that hath ſo long connived at the papiſts, and born with them till now they are riſen againſt her to cut her chil<g ref="char:EOLhyphen"/>drens throats) to be henceforward more wiſe, and become a glorious Church; not by being made naked like their peace offerings to the golden calfe; as too many would betray us to the Romiſh whore, aiming therin at the overthrow of the fundamental laws, the change of Religion; and by fire and ſword to force us to Idolatry. But by be<g ref="char:EOLhyphen"/>comming a true reformed proteſtant church, advanſing the Kingdom of <hi>Ieſus Chriſt,</hi> that he may rule in the purity of his Ordinances above all the traditions of men.</p>
+               <pb facs="tcp:111658:4"/>
+               <!-- PDF PAGE 22 -->
+            </div>
+            <div n="4" type="part">
+               <head>IV. Concerning the Parliaments Army.</head>
+               <p>COncerning the <hi>Militia,</hi> I conceive it is warrantable by Law: 1. Becauſe of the neceſſity of it, <hi>Bracton fol.</hi> 227. <hi>a.</hi> 10. <hi>Rep. fol.</hi> 61. <hi>a.</hi> And ſecondly in reſpect of reaſon, for it doth ſtand with reaſon, <hi>Pl. Com. fol.</hi> 13. <hi>b.</hi> Thirdly, it concerns the Common-wealth, <hi>Dyer</hi> 29. <hi>H.</hi> 8. <hi>E.</hi> 4.23.13. <hi>H.</hi> 8.16. And fourthly, in reſpect of the fa<g ref="char:EOLhyphen"/>vourable conſtruction it beareth, 9. <hi>H.</hi> 3. <hi>c.</hi> 29. <hi>alib.</hi> 5. Becauſe of the Kings Charter, <hi>Bracton fol.</hi> 34. where he ſaith, <hi>De Chartis Regis &amp; faclis Regum, non debent; nec poſſunt Iuſtitiarii, nec privatae priſonae diſputar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> that is, of the Kings Charters, and his deeds, neither Juſtice nor private perſons may or ought to diſpute: It is a rule in the Law, that Judges ought alwayes to make ſuch conſtruction of the deeds of men, and of their Grants, <hi>ut nec res magis valeat quàm pereat:</hi> that is, that they ſhould ra<g ref="char:EOLhyphen"/>ther take effect, then periſh: ſo I ſay, it may well be taken for a rule, that the Judges ſhould not ſo conſtrue the Law, that the Law ſhould deſtroy it ſelfe; which will neceſſarily follow in the deſtruction of the Common-wealth, if they ſhould not ſo interpret it, <hi>ut respublica magis valeat &amp; floreat, quàm p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reat &amp; destruatur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> that the Common-wealth ſhould ra<g ref="char:EOLhyphen"/>ther flouriſh, then peri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h and be deſtroyed.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>Concerning thoſe called Malignants.</hi>
+               </head>
+               <p n="5">V THoſe who are called Malignants, are of two ſorts.
+<list>
+                     <item>1. Evill Councellors;</item>
+                     <item>2. Evill actors; both burning in their fury againſt the happy peace, and tranquillity of the Church and Kingdom, ſeeking the blaſting of the Reputation of the State, O God! ſuffer not ill counſellors to be as a bad ſpleen, to ſwell to ſuch a biggneſſe, as ſhall make leane the Common wealth, that our empty purſes, be not killed with blood, though with teares.</item>
+                  </list>
+Theſe would take away the lives of our Wor<g ref="char:EOLhyphen"/>thies; as it was plotted againſt ſix at one Clap; theſe would overthrow our lawes, and rob us of our Religion, take away the property of our goods, and compell us to an Arbitrary way of government; that juſtice may be bought and ſold againe; but oh what miſery, what ſad event would enſue; when the Judges ſhall affirme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t legall, the Clergie wrong<g ref="char:EOLhyphen"/>fully in their pulpits teach it; and the Cabinet Councell authorize the convenience for matter of State.</p>
+               <p>The States of <hi>Venice,</hi> jealous of any their members, confederating with enemies, cauſe them to be ſtrangled, and hanged up between columns con<g ref="char:EOLhyphen"/>fiſcate their goods, and eſtates; baniſh their children, and make them in<g ref="char:EOLhyphen"/>capable of government.</p>
+               <p>In the 18. and 21. of King <hi>Iames,</hi> the whole houſe adjudged it treaſon to alienate the hearts of the ſubjects, from the Soveraign, which hath been
+<pb facs="tcp:111658:5"/>
+                  <!-- PDF PAGE 23 -->the continuall practice of evil counſellors, and malignants; I humbly de<g ref="char:EOLhyphen"/>ſire God to bleſſe his Majeſtie; but Oh! that he would be pleaſed to ſuffer the Parliament to expiate the diſtractions of the land with the oblation of the troublers of <hi>England,</hi> who hinder both his, their, and our peace.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. Concerning the Cavaliers.</head>
+               <p>IN my diſcourſe concerning the Cavaliers I ſhalbe ſomwhat large, be<g ref="char:EOLhyphen"/>cauſe in them (indeed) is the intent of this diſcourſe; and in ſpeaking of them obſerve,
+<list>
+                     <item>1. What kinde of men they are:</item>
+                     <item>2. What their pra<g ref="char:EOLhyphen"/>ctice hath been, and then you may the better judg what it is to truſt them.</item>
+                  </list>
+               </p>
+               <div type="section">
+                  <p>1 Obſerve what kinde of men they are, and that for nation, religion, and eſtate. 1 For nation: they are a mixt Army, ſome from <hi>Holland,</hi> of the Dutch; others from <hi>France, On<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ale,</hi> and others of the Iriſh, &amp;c. be<g ref="char:EOLhyphen"/>ſides the Engliſh Cavaliers; which may prove of dangerous conſequence, in caſe that any of thoſe forreigne nations ſhould come againſt us with a forraigne Army. They have not onely amongſt them many Iriſh Rebels, but many women that are come over with them, who kill, rob and pillage worſe then the men, and are more bloudy and cruell, and at the end of a skirmiſh, uſe to pillage the dead corps, and many times finding them wounded, but not dead, with knives that they have for the purpoſe they cut out their throats, and abuſe and launch them in moſt wofull manner: good Lord rid us of them.</p>
+                  <p n="2">2 For their religion: there are, no doubt, ſome Proteſtants, but Pa<g ref="char:EOLhyphen"/>piſts, Neuters, and Atheiſts good ſtore: we are in danger of the Popiſh Cavaliers, that if they ſhould prevaile, then we muſt look for fire and faggot again, as it was in <hi>Q Maries</hi> dayes, if not worſe. The Newters they are ready for any deſigne; and the Atheiſts, I will give you notice of ſome of their practiſes:
+<list>
+                        <item>1. By their blaſphemies againſt heaven; by theſe and the like words: <hi>We will drinke, and be drunke, whore, and be damned, and will not be beholden to God to ſave us; we had rather be in hell together, then in heaven with the Roundheads: the divell that made me, damne and ramme into the mouth of a Canon, and ſhoot me nine miles into hell.</hi> They make Proclamtion amongſt themſelves, that he that can invent ſome new oath to damne and deſtroy <hi>Pym</hi> and his adherents, ſhall have a ſumme of money given him.</item>
+                        <item>2 By their action they appeare to be ma<g ref="char:EOLhyphen"/>ny of them no better but plain Atheiſts; they drink healths <hi>to King Charles, in whom they live, and move, and have their being:</hi> but amongſt other things, it is credibly reported, that when they came towards <hi>Lon<g ref="char:EOLhyphen"/>don</hi> with the King, hoping to get an opportunity of pillaging the City, though His Majeſty knew not their intents; His Majeſty was aſleep one morning when they had a deſire to be marching for <hi>London,</hi> who hearing
+<pb facs="tcp:111658:5"/>
+                           <!-- PDF PAGE 23 -->that His Majeſty was aſleep, they wiſhed that he might not awake in a whole fortnight, and drunk healths to his confuſion, and to the confuſion of our bleſſed Lord <hi>Ieſus Chriſt</hi> and his Goſpell, as alſo the confuſion of the Lord <hi>Kimbolton,</hi> Sir <hi>Arthur Hazzlerig,</hi> M. <hi>Denzill Hollis,</hi> M. <hi>Iohn Pym,</hi> M. <hi>Strode,</hi> M. <hi>Iohn Hampden,</hi> Sir <hi>Iohn Hotham,</hi> the Earl of <hi>Eſſex,</hi> the Earl of <hi>Warwicke,</hi> Alderman <hi>Pennington</hi> Major, Sargeant Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Skippon,</hi> Colonel <hi>Iohn Ven,</hi> Alderman <hi>Fulke,</hi> Colonel <hi>Manwaring.</hi> Oh Lord! what a miſerable condition were we in, if we ſhould expoſe our ſelves to their mercy.</item>
+                     </list>
+                  </p>
+                  <p n="3">3. What they are in their eſtates: <hi>Oneale</hi> was a priſoner that broke out of the Tower; many of them are Delinquents to the Parliament, many Malignants, many Iriſh Rebels, that hope for better pillage here then there; many ſouldiers from other places, whoſe livelihood is ſervice in the wars, from one countrey to another, many of them are ſuch as have ſpent their means which their father left them, and now are glad of ſo convenient an opportunity, hoping to raiſe themſelves on the ruines of others.</p>
+               </div>
+               <div type="section">
+                  <p>2 What the practice of the Cavaliers is, we may judge, by conſider<g ref="char:EOLhyphen"/>ing what it hath been; and that ſha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l be declared briefly by their extreme boldneſſe with His Majeſty,</p>
+                  <list>
+                     <item>1. By urging him to undergo all dangers with them; or if His Majeſty ever comply with the Parliament, to aſ<g ref="char:EOLhyphen"/>ſure them of a pardon.</item>
+                     <item>2. To grant them the pillage for their paines.</item>
+                     <item>3. That His Majeſty would give way for ſome of the Iriſh Rebels to come over to aſſiſt him, &amp;c.
+a boldneſſe of an infinite height, God bring His Majeſty ſafe home from amongſt them.</item>
+                  </list>
+               </div>
+               <div type="section">
+                  <p n="2">2 Laſtly, their cruelty in their practices gives us moſt cauſe of all to beware of them, for that hath been moſt cruell and bloudy, beſides their common plundering and pillaging.</p>
+                  <list>
+                     <item n="1">1 One <hi>Iane White</hi> of <hi>Leiceſter,</hi> a woman great with child, they came into her houſe, the good-woman little thinking that they would have wronged her, but becauſe ſhe did not pleaſe them with diſcourſe, they ſhot her clean through the belly with a brace of bullets, and ſhe died.</item>
+                     <item n="2">2. After they had plundred Sir <hi>Edward Rhodes</hi> his houſe in York-ſhire, they ſlew his ſervant that kept the houſe.</item>
+                     <item n="3">3. One <hi>William Wright</hi> of <hi>Abbington,</hi> before the Cavaliers came thi<g ref="char:EOLhyphen"/>ther, gave counſell, and advice to the reſt of the Inhabitants, to ſtand upon their guard, and oppoſe them, and therby to keep the ſaid town from vio<g ref="char:EOLhyphen"/>lence and oppreſſion, and that the Ammunition of the town might be ſecured. By the ſpeciall Command of Prince <hi>Rupert</hi> he was condemned by martiall law, and hanged up at his own doore.</item>
+                     <item n="4">4. Two gentlemen of good repute travelling from <hi>London,</hi> were met at
+<pb facs="tcp:111658:6"/>
+                        <!-- PDF PAGE 24 -->Hounſlow at the ſigne of the Catharine wheel; The Cavaliers hearing <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> were Citizens, brake violently in upon them; tooke their horſes <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the ſtables, and tied them to other horſes and caried them away like ſlav<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> theſe men were caried to P. <hi>Rupert,</hi> and ſet in a ſmoky chimny where th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> were almoſt choakd and Prince <hi>Rrupert</hi> being to march to Hounſloe, th<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> were drove before, and the Cavaliers followed, threatning every mome<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> to ſhoot them, not permitting them to eat, nor ſo much as to lap w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and were ready to ſtarve for cold, and hunger.</item>
+                     <item n="5">5. They executed martiall law on Captaine <hi>Blake.</hi>
+                     </item>
+                     <item n="6">6. They cut in peeces the Miniſters of <hi>Ciceſter</hi> after the skirmiſh wa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> over.</item>
+                     <item n="7">7. A gentlman was hanged in a with upon a tree for ſaying that he w<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> for the King and Parliament, and no man was ſuffered to cut him down <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſo much as to cover his face.</item>
+                     <item n="8">8. Maſter <hi>Bray</hi> of <hi>Iſleworth,</hi> becauſe he ſayd that he was for the Kin<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> and Parliament, they cut off his ears, and gave him thirty wounds i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> body beſides, and when they had done, they tauntingly throw him <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>on a dungill, with this moſt unchriſtian ſcoffe, ſaying, <hi>let the Doggs l<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> him whole.</hi>
+                     </item>
+                     <item n="9">9. Another in the ſame town they tied by the feet, and when they ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> drawen him up and down many ſtreets in the town till they were we<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> they ſhot him to death.</item>
+                     <item n="10">10. They piſtolled one <hi>Francis</hi> of <hi>Vxbrige</hi> for ſaying that he was <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the King and Parliament as he was coming out of an Inne to go to <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> wife, and children.</item>
+                     <item n="11">11. M. <hi>Pierce</hi> his wife at <hi>Brainford,</hi> A woman that had layen in the<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> but one week; they drove her out of the houſe in her ſmock with the chil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in her Armes which coſt her her own and her childs life.</item>
+                     <item n="12">12. Many more ſuch like cruelties, plunderings and Robberies are done by the bloody Cavaliers; the Lord ceaſe their power and fury and ſend <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> peace to his glory. Amen.</item>
+                  </list>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
